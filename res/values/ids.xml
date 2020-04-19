@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="lookListView1">false</item>
+    <item type="id" name="mainCardView1">false</item>
+    <item type="id" name="mainLinearLayout1">false</item>
+    <item type="id" name="mainTextView3">false</item>
+    <item type="id" name="mainTextView2">false</item>
+    <item type="id" name="mainTextView1">false</item>
+    <item type="id" name="shaonvGridView1">false</item>
+    <item type="id" name="webviewFrameLayout1">false</item>
+    <item type="id" name="mainImageView1">false</item>
+    <item type="id" name="ta_waitview" />
+</resources>

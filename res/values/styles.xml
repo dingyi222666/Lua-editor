@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme1" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme1</item>
+    </style>
+    <style name="DialogTheme1" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme2" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme2</item>
+    </style>
+    <style name="DialogTheme2" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme3" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme3</item>
+    </style>
+    <style name="DialogTheme3" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme4" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme4</item>
+    </style>
+    <style name="DialogTheme4" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme5" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme5</item>
+    </style>
+    <style name="DialogTheme5" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme6" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme6</item>
+    </style>
+    <style name="DialogTheme6" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme7" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme7</item>
+    </style>
+    <style name="DialogTheme7" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme8" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme8</item>
+    </style>
+    <style name="DialogTheme8" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme9" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme9</item>
+    </style>
+    <style name="DialogTheme9" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme10" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme10</item>
+    </style>
+    <style name="DialogTheme10" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme11" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme11</item>
+    </style>
+    <style name="DialogTheme11" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme12" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme12</item>
+    </style>
+    <style name="DialogTheme12" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme13" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme13</item>
+    </style>
+    <style name="DialogTheme13" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="DialogTheme15" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme15" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme15</item>
+    </style>
+    <style name="DialogTheme14" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme14" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme14</item>
+    </style>
+    <item type="style" name="APKTOOL_DUMMY_1e">false</item>
+    <item type="style" name="APKTOOL_DUMMY_1f">false</item>
+    <style name="DialogTheme16" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme16" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme16</item>
+    </style>
+    <style name="DialogTheme17" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme17" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme17</item>
+    </style>
+    <style name="BottomDialog.Animation" parent="@style/Animation.AppCompat.Dialog">
+        <item name="android:windowEnterAnimation">@anim/translate_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/translate_dialog_out</item>
+    </style>
+    <style name="Animation.AppCompat.Dialog" parent="@style/Base.Animation.AppCompat.Dialog" />
+    <style name="Base.Animation.AppCompat.Dialog" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/translate_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/translate_dialog_out</item>
+    </style>
+    <style name="AppLuaDialog" parent="@android:style/Theme.Material.Dialog.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="DialogTheme18" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme18" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:alertDialogTheme">@style/AppTheme18</item>
+    </style>
+    <style name="AppLua_ye" parent="@android:style/Theme.Material" />
+    <style name="DialogThemeActivity" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppThemeActivity" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:alertDialogTheme">@style/DialogThemeActivity</item>
+    </style>
+    <style name="BottomDialog.Animation.Top" parent="@style/Animation.AppCompat.Dialog">
+        <item name="android:windowEnterAnimation">@anim/translate_dialog_in_top</item>
+        <item name="android:windowExitAnimation">@anim/translate_dialog_out_top</item>
+    </style>
+    <style name="DialogTheme_bai" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+    <style name="AppTheme_bai" parent="@android:style/Theme.Material.Light.LightStatusBar">
+        <item name="android:alertDialogTheme">@style/DialogTheme_bai</item>
+    </style>
+</resources>
