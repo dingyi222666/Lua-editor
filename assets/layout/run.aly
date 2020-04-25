@@ -1,0 +1,22 @@
+{
+  DrawerLayout;
+  layout_width="fill";
+  layout_height="fill";
+  backgroundColor=0xffffffff;
+  {
+    LinearLayout;
+    layout_width="fill";
+    layout_height="fill"; 
+    backgroundColor=0xffffffff;
+    id="webView";
+  };
+  {
+    LinearLayout;
+    layout_width="fill";
+    backgroundColor=0xffffffff;
+    layout_gravity="left|bottom";
+    layout_height="fill";
+     id="sidebar";
+
+  };
+};
